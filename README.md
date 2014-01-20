@@ -14,6 +14,7 @@ A quick arduino sketch and SmartThings device type for two doors garage opener.
 ### Wiring Guide
 
 On Arduino | On Relay
+--- | --- | ---
 5V | VCC
 GND| GND
 Digital 7 | IN1
